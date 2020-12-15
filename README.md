@@ -7,7 +7,7 @@ How to use?
   2.4. Only the  "Messages" options is necessary
   2.5. Click "Create File"
   2.6 Wait an hour or so
-  2.7 Repeat p. 0.1, check if there is new file in "Available files"
+  2.7 Repeat p. 2.1, check if there is new file in "Available files"
   2.8 If there is download and unpack it, if not, go back to p. 0.6
   3. Run src/hehe.py
   4. Choose folder with messages (any of folders in /messages/inbox folder downloaded from fb)
