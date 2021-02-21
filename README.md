@@ -1,3 +1,5 @@
+This is a small tool that allows to visualise statistics about messanger conversations.
+
 How to use?
 - Have python installed
 - Download messages from fb
@@ -13,5 +15,6 @@ How to use?
 - Choose folder with messages (any of folders in /messages/inbox folder downloaded from fb)
 - Enjoy the beauty of generated pie graph
 
-
+Examples:
 ![picture alt](https://i.imgur.com/8JgQCFH.png "Title is optional")
+![picture alt](https://i.imgur.com/Su4VXrf.png "Title is optional")
