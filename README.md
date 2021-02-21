@@ -11,7 +11,7 @@ How to use?
    - Wait an hour or so
    - Repeat p. 2.1, check if there is new file in "Available files"
    - If there is download and unpack it, if not, go back to p. 0.6
-- Run src/hehe.py
+- Run src/main.py
 - Choose folder with messages (any of folders in /messages/inbox folder downloaded from fb)
 - Enjoy the beauty of generated pie graph
 
