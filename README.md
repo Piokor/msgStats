@@ -12,3 +12,6 @@ How to use?
 - Run src/hehe.py
 - Choose folder with messages (any of folders in /messages/inbox folder downloaded from fb)
 - Enjoy the beauty of generated pie graph
+
+
+![picture alt](https://i.imgur.com/8JgQCFH.png "Title is optional")
